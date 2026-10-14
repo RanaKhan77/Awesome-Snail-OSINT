@@ -418,6 +418,7 @@ A Great Collection of OSINT tools, By PT-Snails.
 - [Namevine](https://namevine.com)
 - [WhatsMyName Web](https://whatsmyname.app)
 - [Username Check](https://www.usernamecheck.com)
+- [Consensus OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) — Command-line username, email and phone lookup with enriched results and evidence graphs.
 - [Socialscan](https://socialscan.com)
 
 ---
