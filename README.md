@@ -769,11 +769,8 @@ services.certificate:"example.com"
 
 ## Instagram
 
-- [InstaProfileFinder](https://www.instaprofilefinder.com)
-- [Pikdo](https://www.pikdo.info)
-- [InstaStalker](https://www.instastalker.org)
-- [Gramhir](https://gramhir.com)
 - [Social Blade (Instagram Analytics)](https://socialblade.com/instagram)
+- [IGDataHub (follower-count history and profile stats)](https://igdatahub.com/)
 
 ---
 
