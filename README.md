@@ -125,6 +125,7 @@ A Great Collection of OSINT tools, By PT-Snails.
 - [Online Email Extractor](https://www.getemail.io/email-extractor)
 - [Disposable Email Address Detector](https://verifalia.com/validate-email)
 - [Anymailfinder](https://anymailfinder.com/)
+- [Exposure Check OSINT – Self-hosted Email & Identifier Exposure Checker](https://github.com/RanaKhan77/Exposure-Check-OSINT)
 - [Epios Tools](https://epios.com/)
 - [Email Format Search](https://email-format.com)
 - [Email Dossier](https://centralops.net/co/emaildossier.aspx)
