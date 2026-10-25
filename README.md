@@ -299,6 +299,7 @@ A Great Collection of OSINT tools, By PT-Snails.
 
 ## Monitoring News, Conflicts & Web
 
+- [ICHI – Internet Cyber Health Index](https://ichi.global) — Free, source-transparent daily barometer of internet-wide cyber health. Aggregates threat intel feeds, CVE data, and security news into a single public dashboard. Useful for monitoring the current threat landscape.
 - [Liveuamap.com](https://liveuamap.com)
 - [NewsBrief](https://newsbrief.com)
 - [Google Alerts](https://www.google.com/alerts)
