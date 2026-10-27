@@ -130,6 +130,7 @@ A Great Collection of OSINT tools, By PT-Snails.
 - [Email Dossier](https://centralops.net/co/emaildossier.aspx)
 - [Saymine](https://saymine.com)
 - [Cybercrime Intelligence Tools](https://cybercrimeintelligence.com/)
+- [Opsis (Reverse Email Lookup)](https://useopsis.com/)
 
 ---
 
