@@ -1,0 +1,21 @@
+name: Report an outdated resource
+description: Flag a link for manual investigation
+title: "[Resource] "
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Existing URL
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What changed, and when did you check?
+      description: Do not include personal data, secrets, or credentials.
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Verified replacement URL (optional)
