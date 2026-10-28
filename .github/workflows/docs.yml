@@ -1,0 +1,20 @@
+name: Documentation checks
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  markdown-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify internal Markdown paths and anchors
+        run: python3 scripts/check_docs.py
+      - name: Run checker tests
+        run: python3 -m unittest discover -s tests -v
