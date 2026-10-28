@@ -1,5 +1,27 @@
-# AwesomeSnailOSINT
-A Great Collection of OSINT tools, By PT-Snails.
+# 🐌 Awesome Snail OSINT
+
+**An open-source intelligence field reference: tools, search operators, collection techniques, and investigative methodology.**
+
+[![Stars](https://img.shields.io/github/stars/SnailSploit/Awesome-Snail-OSINT?style=flat-square)](https://github.com/SnailSploit/Awesome-Snail-OSINT/stargazers) [![Open issues](https://img.shields.io/github/issues/SnailSploit/Awesome-Snail-OSINT?style=flat-square)](https://github.com/SnailSploit/Awesome-Snail-OSINT/issues) [![Documentation checks](https://github.com/SnailSploit/Awesome-Snail-OSINT/actions/workflows/docs.yml/badge.svg)](https://github.com/SnailSploit/Awesome-Snail-OSINT/actions/workflows/docs.yml)
+
+> **Start with a question, not a tool.** Built for security researchers, investigators, journalists, and defenders. A public search result is a lead—not proof of ownership, exposure, or authorization to test.
+
+## Start here
+
+| Your task | Reference |
+| --- | --- |
+| Plan an evidence-driven investigation | [OSINT field guide](docs/field-guide.md) · [Advanced techniques](advanced-osint-techniques.md) |
+| Understand a domain or infrastructure footprint | [Website security](#website-security) · [Shodan searches](shodan-dorks.md) |
+| Research organizations and public profiles | [Research tools](#research-and-investigative-tools) · [Social search](#social-media-search) |
+| Discover public repository metadata | [GitHub search reference](github-dorks.md) |
+| Learn search-engine operators | [Google dorks](google-dorks.md) · [Other engines](other-search-engines-dorks.md) |
+| Document claims and corroboration | [Investigation report template](docs/report-template.md) |
+| Submit a tool or fix a broken link | [Contributing](CONTRIBUTING.md) · [Report an issue](https://github.com/SnailSploit/Awesome-Snail-OSINT/issues) |
+
+**Resource status:** This is a community-maintained collection, not a verified-live service catalog. Links, query syntax, access terms, and pricing can change. Read the [resource quality policy](docs/resource-quality.md) before relying on a listing.
+
+<details>
+<summary>Show the original Snail banner</summary>
 
 ```
 
@@ -34,6 +56,9 @@ A Great Collection of OSINT tools, By PT-Snails.
 ░█▄▄▀ ░█▄▄█ ░█─── ░█▀▀▀ 
 ░█─░█ ░█─░█ ░█▄▄█ ░█▄▄▄
 ```
+
+</details>
+
 ---
 
 ## Table of Contents
@@ -52,7 +77,7 @@ A Great Collection of OSINT tools, By PT-Snails.
 - [Country](#country)
 - [Note Capture & Screenshots](#note-capture--screenshots)
 - [Geo Tools](#geo-tools)
-- [Monitoring News, Conflicts & Web](#monitoring-newsconflicts-web)
+- [Monitoring News, Conflicts & Web](#monitoring-news-conflicts--web)
 - [Drones & Webcams Databases](#drones--webcams-databases)
 - [Scientific Search Engines](#scientific-search-engines)
 - [OSINT Collections](#osint-collections)
@@ -508,7 +533,7 @@ Advanced search operators and dorks for various search engines to find specific 
 ### 📚 Comprehensive Dork Collections
 
 **Detailed dork lists for each search engine**:
-- **[Google Dorks](google-dorks.md)** - 500+ Google search operators, file hunting, authentication portals, exposed data
+- **[Google Dorks](google-dorks.md)** - Google search operators, file hunting, authentication portals, exposed data
 - **[Shodan Dorks](shodan-dorks.md)** - IoT devices, ICS/SCADA systems, databases, network infrastructure
 - **[GitHub Dorks](github-dorks.md)** - API keys, credentials, secrets, configuration files, private keys
 - **[Other Search Engines Dorks](other-search-engines-dorks.md)** - Censys, Bing, FOFA, ZoomEye, GreyNoise, BinaryEdge
